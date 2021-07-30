@@ -1,4 +1,5 @@
-<img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store">
+<img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"/>
+
 # Grocery Store
 Grocery Store App, is an online shopping cart application. 
 It comprises of 10+ screens with different features to make the navigate smooth & user-friendly.
