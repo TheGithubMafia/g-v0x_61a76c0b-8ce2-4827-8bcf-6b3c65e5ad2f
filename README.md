@@ -32,12 +32,3 @@ It comprises of 10+ screens with different features to make the navigate smooth 
 <img src="screen/screen5.png">
 
 <img src="screen/screen6.png">
-
-<img src="screen/1.png">
-
-<img src="screen/2.png">
-
-<img src="screen/3.png">
-
-<img src="screen/4.png">
-
