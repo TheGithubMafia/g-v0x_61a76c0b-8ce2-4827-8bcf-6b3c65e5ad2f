@@ -18,8 +18,6 @@ It comprises of 10+ screens with different features to make the navigate smooth 
 - Free updates.
 - License.
 
-* [GroceryStoreAndroid](https://u.pcloud.link/publink/show?code=XZxulmXZwEXImolNGnH0x0DxRuXzKJdtiGBk) - Grocery Store Android (Demo)
-
 
 ## Screen 
 
